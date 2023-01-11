@@ -1,4 +1,4 @@
-from module.application import Application
+from module.ui.application import Application
 
 
 class BaseSingleThreadRunner():

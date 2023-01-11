@@ -1,5 +1,5 @@
 import cv2
-from module.application import Application
+from module.ui.application import Application
 from PySide6 import QtCore
 from PySide6.QtWidgets import QLabel
 from PySide6.QtGui import QImage, QPixmap

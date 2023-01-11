@@ -2,7 +2,7 @@
 from PySide6.QtWidgets import QApplication
 from qt_material import apply_stylesheet
 
-from module.application import Application
+from module.ui.application import Application
 
 
 if __name__ == '__main__':

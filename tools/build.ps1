@@ -4,9 +4,9 @@ pyinstaller `
     --specpath ./build `
     --noconsole `
     -D `
-    ./src/main.py
+    ./src/案例工程.py
     # -i ../resource/main.ico `
     # --key 'lolikonloli' `
 
-Copy-Item ./src/ui ./build/install/main -recurse -force
+# Copy-Item ./src/ui ./build/install/main -recurse -force
 
