@@ -1,1 +1,1 @@
-pyside6-uic .\src\ui\application.ui -o .\src\ui\ui_application.py
+pyside6-uic .\src\user_interface\application.ui -o .\src\user_interface\ui_application.py

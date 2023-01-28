@@ -1,4 +1,4 @@
-from modules.ui.application import Application
+from modules.application import Application
 
 class Page1AddNum():
     def __init__(self, app:Application) -> None:

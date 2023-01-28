@@ -4,7 +4,7 @@ pyinstaller `
     --specpath ./build `
     --noconsole `
     -D `
-    ./src/案例工程.py
+    ./src/main.py
     # -i ../resource/main.ico `
     # --key 'lolikonloli' `
 
