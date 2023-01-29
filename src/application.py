@@ -1,6 +1,6 @@
 #pyside6
 from PySide6.QtWidgets import QMainWindow
-from user_interface.ui_application import Ui_main
+from ui.ui_application import Ui_main
 
 
 class Application(QMainWindow):
