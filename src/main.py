@@ -4,8 +4,6 @@ from qt_material import apply_stylesheet
 from application import Application
 from page_1.page1_main import Page1
 
-
-
 if __name__ == '__main__':
     q_appication = QApplication()
     apply_stylesheet(q_appication, theme='dark_teal.xml')
